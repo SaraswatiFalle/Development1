@@ -1,0 +1,15 @@
+<html>                                                               Bold , big
+    <head>
+           <title>text</title>
+    </head>
+     <body>
+         
+         <p> My location is pune</p>
+         <p> My location is <ins>Pune </ins></p>
+         <p> My location is <u> Pune </u></p>
+         <p> My location is <Del> Pune</Del></p>
+         <p> My location is <strike> Pune</strike></p>
+        
+
+     </body>
+    </html>
